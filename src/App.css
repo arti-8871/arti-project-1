@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+
+.inner-width{
+  max-width: 89.58vw!important;
+  margin: 0 auto;
+}
+ul.menu.list .menuLink:last-child {
+  border: 2px solid;
+  border-radius: 23px 25px 0 25px;
+}
+
+.imgArea{
+  background-image: url('../src/Assests/Images/imgwithTxt_Bg.png');
+}
