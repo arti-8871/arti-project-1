@@ -109,6 +109,7 @@ const RealTimeReport = () => {
                 <img src={leftOptions[img_num].imgSrc} alt="realImg" />
               </div>}
          
+         
           </div>)
       })
 
