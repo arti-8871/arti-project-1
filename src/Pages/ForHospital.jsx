@@ -1,9 +1,10 @@
 import React from 'react'
-import { RealTimeReport } from '../Components/HospitalPage/Index'
+import { HospitalBanner, RealTimeReport } from '../Components/HospitalPage/Index'
 
 const ForHospital = () => {
   return (<React.Fragment>
     <div>ForHospital</div>
+    <HospitalBanner />
     <RealTimeReport />
     </React.Fragment>)
 }

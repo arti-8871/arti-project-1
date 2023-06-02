@@ -88,7 +88,7 @@ var RightOptions = [
 const RealTimeReport = () => {
   let [img_num, setImg_num] = useState(0)
 let [displayBlock , setDisplayblock] = useState(true)
-let [displayNone , setDisplayNone] = useState({"display":"none"})
+
   let g = (k) => {
     setImg_num(k)
   }

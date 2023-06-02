@@ -1,2 +1,3 @@
 import RealTimeReport from "./RealTimeReport";
-export {RealTimeReport}
+import HospitalBanner from "./HospitalBanner";
+export {RealTimeReport , HospitalBanner}
