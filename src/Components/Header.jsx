@@ -32,7 +32,7 @@ const Header = (props) => {
         className="header wrapper p-[0.52vw]"
         style={{ background: props.bgColor, color: "white" }}
       >
-        <div className="inner-width h-[24.44vw] lg:h-[6.77vw] flex justify-between items-start items-center">
+        <div className="inner-width h-[5.44vw] lg:h-[6.77vw] flex justify-between items-start items-center">
           <div className="headerLogo w-1/5">
             <img
               className="logoImg w-[6.16vw]"

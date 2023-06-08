@@ -1,7 +1,23 @@
 .App {
   text-align: center;
 }
-
+.dozzeMachine {
+  width: 15vw;
+  height: 25.38vw;
+  top: 16.59vw;
+  /* left: 41vw; */
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+}
+.dozzeSecondMachine{
+  width: 15vw;
+  height: 25.38vw;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  bottom:0;
+}
 
 .inner-width{
   max-width: 89.58vw!important;
@@ -14,4 +30,31 @@ ul.menu.list .menuLink:last-child {
 
 .imgArea{
   background-image: url('../src/Assests/Images/imgwithTxt_Bg.png');
+}
+
+
+/* .slide_pipe {
+  width: 200px;
+  height: 11px;
+  background: blue;
+  border-radius: 25px;
+  margin: 30px;
+} */
+/* .circle {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 100px;
+  background: red;
+  top: -4px;
+} */
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.slider-parent{
+  position:relative;
+}
+.buble{
+  position:absolute;
 }
